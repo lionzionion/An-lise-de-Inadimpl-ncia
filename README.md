@@ -22,11 +22,11 @@ Conclusão:
 A análise aprofundada destacou a complexidade dos fatores que contribuem para a inadimplência, fornecendo uma base sólida para estratégias futuras de gerenciamento de risco.
 
 Agradecimento:
-Quero expressar minha gratidão ao Professor [André Perez] e à EBAC por orientarem este projeto e proporcionarem um ambiente educacional estimulante.
+Quero expressar minha gratidão ao Professor André Perez e à EBAC por orientarem este projeto e proporcionarem um ambiente educacional estimulante.
 
 Sinta-se à vontade para explorar o código e os resultados! Feedbacks são sempre bem-vindos.
 
 DataScience #Python #EBAC #AnáliseDeDados #GitHub
-[Link para o repositório do GitHub]
+(https://github.com/lionzionion/An-lise-de-Inadimpl-ncia.git)
 
 Espero que este projeto inspire e contribua para o aprendizado coletivo na comunidade. Obrigado por conferir! 🚀
